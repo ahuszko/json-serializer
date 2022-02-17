@@ -1,0 +1,17 @@
+{
+    "name": "ahuszko/json-serializer",
+    "version": "0.1.0",
+    "autoload": {
+        "psr-4": {
+            "Ahuszko\\JsonSerializer\\": "src/",
+            "Test\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Attila Huszko",
+            "email": "attila.huszko@high-end.hu"
+        }
+    ],
+    "require": {}
+}
